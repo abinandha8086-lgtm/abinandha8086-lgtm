@@ -19,6 +19,8 @@ this gives *italic*
 this makes **bold**
 
 for adding a link  [use this](https://github.com/abinandha8086-lgtm/abinandha8086-lgtm/edit/main/README.md)
+
+![imagename](imagefilename/path)
 <!--
 **abinandha8086-lgtm/abinandha8086-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
