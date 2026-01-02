@@ -1,8 +1,12 @@
 ## Hi there 👋
 Abinandha here....
 
-im listening to a session about Github
+I'm a Third year student of *Bvoc Mathematics and Artificial Intelligence*, Currently working as a **Robotic intern at Unique World Robotics**.
 
+
+
+
+# im currently attending session about Github
 ### small title
 * this
 * is
@@ -14,7 +18,7 @@ this gives *italic*
 
 this makes **bold**
 
-for adding a link [use this]
+for adding a link  [use this](https://github.com/abinandha8086-lgtm/abinandha8086-lgtm/edit/main/README.md)
 <!--
 **abinandha8086-lgtm/abinandha8086-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
