@@ -1,6 +1,20 @@
 ## Hi there 👋
 Abinandha here....
 
+im listening to a session about Github
+
+### small title
+* this
+* is
+* bullet
+* point
+
+
+this gives *italic*
+
+this makes **bold**
+
+for adding a link [use this]
 <!--
 **abinandha8086-lgtm/abinandha8086-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
